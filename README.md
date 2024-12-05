@@ -10,7 +10,7 @@
 1. [License](#license)
 
 ## Description
-> This is an e-commerce/retail front end application. The initial focuses on providing the minimum viable product for the retail application. Features implemented are constrained to the consumer experience which enables fundamental features, such as search, browse, add to cart, and checkout.
+> This is an e-commerce/retail front end application. The initial release focuses on providing the minimum viable product for the retail application. Features implemented are constrained to the consumer experience which enables fundamental features, such as search, browse, add to cart, and checkout.
 
 ## Requirements
 - Node 15.4.0
