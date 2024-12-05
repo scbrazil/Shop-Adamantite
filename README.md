@@ -1,8 +1,6 @@
 [![Build Status](https://travis-ci.org/prettier/prettier.svg?branch=master)](https://travis-ci.org/prettier/prettier)
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
-# Front-End-Capstone - HRATX53 Team Adamantite
 ## Contents
 
 1. [Description](#description)
@@ -12,7 +10,7 @@
 1. [License](#license)
 
 ## Description
-> This is a front end application for retailers. The initial release will focus on providing the minimum viable product for our retail application. Features implemented will be constrained to the client experience which enables customers to search, browse, add to cart, and checkout.
+> This is an e-commerce/retail front end application. The initial focuses on providing the minimum viable product for the retail application. Features implemented are constrained to the consumer experience which enables fundamental features, such as search, browse, add to cart, and checkout.
 
 ## Requirements
 - Node 15.4.0
@@ -48,6 +46,3 @@ npm install
 ### Deployment
 - Run `npm run build`
 - Run `node server.js` to start the server
-
-## License
-MIT License
